@@ -6,7 +6,7 @@
 </p>
 
 <h1>PDF Files Wont Oppen</h1>
-This tutorial shows a simple solution to PDF files that wont open, this can be done by remotely conecting to the device of the user asking them for their IP adress, however this was all done from my personal laptop only as a demonstration as to what I will do when remotely conected to the device of the user. <br />
+This tutorial shows a simple solution to PDF files that wont open, this can be done by remotely connecting to the device of the user asking them for their IP adress, however this was all done from my personal laptop only as a demonstration as to what I will do when remotely conected to the device of the user. <br />
 
 
 
